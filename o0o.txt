@@ -1,0 +1,4 @@
+#include <studio.h>
+int main(){
+printf("너무어려우ㅡㅡㅡㅜㅡㅜㅡ길세바보")
+}
